@@ -99,7 +99,7 @@ modules = [
 	'mods.Tags',
 	'mods.Logs',
 	'mods.Wc',
-	# 'mods.AI',
+	 'mods.AI',
 	'mods.Changes',
 	'mods.Markov',
 	'mods.Verification',
